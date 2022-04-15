@@ -81,3 +81,11 @@ Penetration Testing Interview Questions
 
 ## Scenario-Based
 
+* How would you remotely access a service that can only be accessed from within an internal network?	
+* How would you allow regular users to run bash scripts as root and which way is most secure?	(cron jobs)
+* If you were able to obtain an NTLM hash but could not decrypt it, how would you use this knowledge to obtain access to the target host?	(pHT)
+* What measures would you put in place to prevent brute forcing?	
+
+
+#### refrences
+* [Penetration Testing Interview](https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/)
