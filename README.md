@@ -1,7 +1,8 @@
-# Penetration-Testing-Interview-Questions
+# Penetration Testing Interview Questions
 Penetration Testing Interview Questions
 
 ## General
+
 * What are the phases in the penetration testing lifecycle? (recon,scan,..)
 * What types of penetration testing assessments are there?	(Internal/External Infrastructure Penetration Testing / Wireless/Web/mobile)
 * Difference between active and passive reconnaissance	?
@@ -18,6 +19,7 @@ Penetration Testing Interview Questions
 
 
 ## Infrastructure/Operating Systems
+
 * What is the OSI model and what are its layers?	
 * What is the difference between TCP and UDP?	
 * What are some of the most common services and what ports do they run on?	
@@ -45,3 +47,15 @@ Penetration Testing Interview Questions
 * What is WPS? Why is it insecure?	
 
 ## Common Techniques & Attacks
+
+* How can DNS and ARP be exploited by attackers?	
+* What is DDoS?	
+* What is buffer overflow?	
+* What is packet inspection?	
+* What is privilege escalation? Provide a few examples	
+* What is the difference between bruteforce and dictionary attacks?	
+* What is a golden ticket attack?	
+* What is a common misconfiguration of FTP and SMB?	(anonymous login/  null session)
+
+## Web Application Vulnerabilities & Attacks
+
