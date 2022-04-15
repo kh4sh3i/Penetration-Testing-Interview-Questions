@@ -59,3 +59,25 @@ Penetration Testing Interview Questions
 
 ## Web Application Vulnerabilities & Attacks
 
+* what is XSS, what types of XSS are there, what are the consequences of a successful attack and how do you prevent XSS?	
+* What is SQL Injection, different types and examples, how to prevent	?
+* Secure and HTTPOnly flags	
+* What is CSRF, what does it entail and how can it be prevented?	
+* What is IDOR, what are its consequences and how can you prevent it?	
+* What are LFI and RFI and what are the consequences of these attacks? How can they be prevented?	
+* How can you secure data in transit?	
+
+## Penetration Testing Tools
+
+* What tool would you use to perform a port scan?	
+* What tools would you use to inspect network packets?	
+* What tool would you use to bruteforce passwords, online and offline?	
+* What tool would you use to automate SQL injection attacks?	
+* What tool would you use to perform an ARP spoofing attack? (Ettercap)
+* What tools would you use to perform testing against WiFi networks	
+* What tool can help generate malicious executables?	
+* What tools would you use to scan a network for known vulnerabilities?	
+* What tool would you use to inspect the route between a host and a destination?	
+
+## Scenario-Based
+
